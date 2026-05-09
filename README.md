@@ -12,94 +12,84 @@ Building scalable SaaS platforms, AI-powered systems, mobile apps, and cloud-nat
   <a href="mailto:faisalaziz.softwaredeveloper@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+
   <a href="https://github.com/FaisalAzizKhan">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+
   <a href="https://linkedin.com/in/YOUR_LINKEDIN">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=FaisalAzizKhan&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-```ts
-const faisal = {
-  role: "Senior Full-Stack Developer & Agentic AI Engineer",
+<table>
+<tr>
+<td width="50%">
 
-  expertise: [
-    "Full-Stack Development",
-    "AI Systems & LLM Applications",
-    "Mobile App Development",
-    "Cloud & DevOps"
-  ],
+### 👨‍💻 Senior Full-Stack Engineer
+- Production-grade SaaS applications
+- Scalable backend architectures
+- Cross-platform mobile apps
+- High-performance APIs
+- Real-time systems
 
-  technologies: {
-    frontend: [
-      "React",
-      "React Native",
-      "Angular",
-      "Next.js",
-      "TypeScript",
-      "Tailwind CSS"
-    ],
+</td>
 
-    backend: [
-      "Node.js",
-      "NestJS",
-      "Python",
-      "Rust",
-      "Express"
-    ],
+<td width="50%">
 
-    databases: [
-      "PostgreSQL",
-      "MongoDB",
-      "Redis",
-      "Firebase"
-    ],
+### 🤖 AI Engineer
+- LLM Applications
+- RAG Systems
+- Computer Vision
+- Vector Search
+- KYC & Face Recognition
 
-    ai_ml: [
-      "OpenAI",
-      "LLMs",
-      "RAG",
-      "Vector Search",
-      "Computer Vision",
-      "TensorFlow",
-      "PyTorch",
-      "DeepFace"
-    ],
+</td>
+</tr>
 
-    cloud_devops: [
-      "AWS EC2",
-      "AWS S3",
-      "Docker",
-      "Nginx",
-      "CI/CD"
-    ]
-  },
+<tr>
+<td width="50%">
 
-  currentFocus: [
-    "Agentic AI Systems",
-    "AI SaaS Platforms",
-    "Distributed Architectures",
-    "Scalable Backend Systems"
-  ]
-};
-```
+### ⚡ Core Stack
+
+**Frontend**  
+React • React Native • Angular  
+Next.js • TypeScript • Tailwind CSS
+
+**Backend**  
+Node.js • NestJS • Python • Rust
+
+</td>
+
+<td width="50%">
+
+### ☁️ Cloud & DevOps
+
+AWS EC2 • AWS S3  
+Docker • Nginx  
+Redis • PostgreSQL  
+CI/CD & Scalable Deployments
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 💼 What I Build
+## 🎯 Current Focus
 
-✨ AI-Powered Platforms  
-🤖 LLM, RAG & Intelligent Automation Systems  
-📱 Cross-Platform Mobile Apps (iOS & Android)  
-🏗️ Production-Grade SaaS Architectures  
-☁️ Cloud-Native Backend Systems  
-🔍 Computer Vision & KYC Verification Systems  
-⚡ Real-Time Applications & High-Performance APIs
+- 🤖 Agentic AI Systems  
+- 🚀 AI-Powered SaaS Platforms  
+- 📱 Scalable Mobile Applications  
+- ⚡ Distributed Backend Architectures  
 
 ---
 
@@ -107,7 +97,12 @@ const faisal = {
 
 ### Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=react,reactivex,nextjs,angular,ts,js,tailwind,vite" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,angular,ts,js,tailwind,vite" />
+</p>
+
+### Mobile
+<p>
+  <img src="https://skillicons.dev/icons?i=react" />
 </p>
 
 ### Backend
@@ -132,28 +127,29 @@ const faisal = {
 
 ---
 
-## 🚀 Featured Expertise
+## 💼 Featured Expertise
 
 <table>
 <tr>
 <td width="50%">
 
 ### 💻 Full-Stack Engineering
-- React / React Native / Angular
-- Node.js / NestJS / Python / Rust
-- REST APIs & Scalable Architectures
-- Multi-Tenant SaaS Systems
+- Multi-Tenant SaaS Platforms
+- Enterprise Web Applications
+- REST APIs & Microservices
+- Real-Time Systems
+- Secure Authentication & RBAC
 
 </td>
 
 <td width="50%">
 
-### 🤖 AI Engineering
+### 🤖 AI & Intelligent Systems
 - LLM Integrations
-- RAG Systems
-- Vector Search
-- Computer Vision
-- KYC & Face Recognition
+- RAG Pipelines
+- Semantic Search
+- AI Chat Systems
+- OCR & Face Recognition
 
 </td>
 </tr>
@@ -164,12 +160,21 @@ const faisal = {
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=FaisalAzizKhan&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=FaisalAzizKhan&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=FaisalAzizKhan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  
+  <img height="170" src="https://streak-stats.demolab.com?user=FaisalAzizKhan&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FaisalAzizKhan&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🚀 Featured Domains
+
+<p align="center">
+💰 FinTech & Banking • 🤖 AI Systems • 📱 Mobile Apps • ☁️ Cloud Platforms • 🏗️ SaaS Products • 🔍 Computer Vision • ⚡ Real-Time Systems
 </p>
 
 ---
@@ -192,6 +197,6 @@ const faisal = {
 
 ---
 
-<p align="center">
-  🚀 <b>Open to Full-Stack, AI, Mobile & Cloud Opportunities</b>
-</p>
+<h3 align="center">
+🚀 Open to Full-Stack, AI, Mobile & Cloud Opportunities
+</h3>
