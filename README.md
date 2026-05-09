@@ -1,18 +1,197 @@
-# 💫 About Me:
-- 💼 Senior Full-Stack Developer with experience in production-grade applications<br>- ⚡ Skilled in React, React Native, Angular, Node.js, Python, and Rust<br>- 🧠 Passionate about AI systems (LLMs, RAG, Computer Vision, Vector Search)<br>- ☁️ Experienced with AWS (EC2, S3), deployments, and scalable architectures<br>- 📱 Built and deployed mobile apps on Play Store & App Store<br>- 🔍 Worked on real-time systems including face recognition and KYC solutions<br>- 🏗️ Developed SaaS platforms across fintech, AI, IoT, and automation domains<br>- 🚀 Focused on building high-performance, scalable, and maintainable systems
+<h1 align="center">Hi 👋, I'm Faisal Aziz</h1>
 
+<h3 align="center">
+Senior Full-Stack Developer • Agentic AI Engineer • Mobile & Cloud Architect
+</h3>
 
-## 🌐 Socials:
-[![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Faisal Aziz) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:faisalaziz.softwaredeveloper@gmail.com) 
+<p align="center">
+Building scalable SaaS platforms, AI-powered systems, mobile apps, and cloud-native architectures 🚀
+</p>
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=FaisalAzizKhan&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=FaisalAzizKhan&theme=vue-dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=FaisalAzizKhan&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <a href="mailto:faisalaziz.softwaredeveloper@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/FaisalAzizKhan">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=FaisalAzizKhan&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 About Me
+
+```ts
+const faisal = {
+  role: "Senior Full-Stack Developer & Agentic AI Engineer",
+
+  expertise: [
+    "Full-Stack Development",
+    "AI Systems & LLM Applications",
+    "Mobile App Development",
+    "Cloud & DevOps"
+  ],
+
+  technologies: {
+    frontend: [
+      "React",
+      "React Native",
+      "Angular",
+      "Next.js",
+      "TypeScript",
+      "Tailwind CSS"
+    ],
+
+    backend: [
+      "Node.js",
+      "NestJS",
+      "Python",
+      "Rust",
+      "Express"
+    ],
+
+    databases: [
+      "PostgreSQL",
+      "MongoDB",
+      "Redis",
+      "Firebase"
+    ],
+
+    ai_ml: [
+      "OpenAI",
+      "LLMs",
+      "RAG",
+      "Vector Search",
+      "Computer Vision",
+      "TensorFlow",
+      "PyTorch",
+      "DeepFace"
+    ],
+
+    cloud_devops: [
+      "AWS EC2",
+      "AWS S3",
+      "Docker",
+      "Nginx",
+      "CI/CD"
+    ]
+  },
+
+  currentFocus: [
+    "Agentic AI Systems",
+    "AI SaaS Platforms",
+    "Distributed Architectures",
+    "Scalable Backend Systems"
+  ]
+};
+```
+
+---
+
+## 💼 What I Build
+
+✨ AI-Powered Platforms  
+🤖 LLM, RAG & Intelligent Automation Systems  
+📱 Cross-Platform Mobile Apps (iOS & Android)  
+🏗️ Production-Grade SaaS Architectures  
+☁️ Cloud-Native Backend Systems  
+🔍 Computer Vision & KYC Verification Systems  
+⚡ Real-Time Applications & High-Performance APIs
+
+---
+
+## 🛠 Tech Stack
+
+### Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,reactivex,nextjs,angular,ts,js,tailwind,vite" />
+</p>
+
+### Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,python,rust,express,bun" />
+</p>
+
+### Database & Cache
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,firebase" />
+</p>
+
+### AI / Machine Learning
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
+</p>
+
+### Cloud / DevOps
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,docker,nginx,git,github" />
+</p>
+
+---
+
+## 🚀 Featured Expertise
+
+<table>
+<tr>
+<td width="50%">
+
+### 💻 Full-Stack Engineering
+- React / React Native / Angular
+- Node.js / NestJS / Python / Rust
+- REST APIs & Scalable Architectures
+- Multi-Tenant SaaS Systems
+
+</td>
+
+<td width="50%">
+
+### 🤖 AI Engineering
+- LLM Integrations
+- RAG Systems
+- Vector Search
+- Computer Vision
+- KYC & Face Recognition
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=FaisalAzizKhan&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=FaisalAzizKhan&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FaisalAzizKhan&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🌍 Connect With Me
+
+<p align="left">
+<a href="mailto:faisalaziz.softwaredeveloper@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/FaisalAzizKhan">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+</p>
+
+---
+
+<p align="center">
+  🚀 <b>Open to Full-Stack, AI, Mobile & Cloud Opportunities</b>
+</p>
