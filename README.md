@@ -129,9 +129,8 @@ CI/CD & Scalable Deployments
 
 ## 💼 Featured Expertise
 
-<table>
-<tr>
-<td width="50%">
+<table align="center">
+ 
 
 ### 💻 Full-Stack Engineering
 - Multi-Tenant SaaS Platforms
@@ -140,9 +139,7 @@ CI/CD & Scalable Deployments
 - Real-Time Systems
 - Secure Authentication & RBAC
 
-</td>
-
-<td width="50%">
+ 
 
 ### 🤖 AI & Intelligent Systems
 - LLM Integrations
@@ -151,8 +148,7 @@ CI/CD & Scalable Deployments
 - AI Chat Systems
 - OCR & Face Recognition
 
-</td>
-</tr>
+ 
 </table>
 
 ---
