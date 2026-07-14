@@ -157,17 +157,25 @@ CI/CD & Scalable Deployments
 
 ---
 
-## 📊 GitHub Analytics
+---
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=FaisalAzizKhan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  
-  <img height="170" src="https://streak-stats.demolab.com?user=FaisalAzizKhan&theme=tokyonight&hide_border=true" />
-</p>
+# 💡 What I Build
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FaisalAzizKhan&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+✅ Production AI SaaS Platforms
+
+✅ Agentic AI & Multi-Agent Systems
+
+✅ Model Context Protocol (MCP)
+
+✅ LLM Applications & RAG Pipelines
+
+✅ AI Automation (n8n • Zapier • LangGraph)
+
+✅ Enterprise Web & Mobile Applications
+
+✅ Cloud-Native Architectures on AWS
+
+✅ Computer Vision & OCR Systems
 
 ---
 
