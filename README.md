@@ -30,7 +30,7 @@ Building scalable SaaS platforms, AI-powered systems, mobile apps, and cloud-nat
 
 ## 🚀 About Me
 
-<table>
+<table align="center">
 <tr>
 <td width="50%">
 
