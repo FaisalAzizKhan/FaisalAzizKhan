@@ -31,8 +31,7 @@ Building scalable SaaS platforms, AI-powered systems, mobile apps, and cloud-nat
 ## 🚀 About Me
 
 <table align="center">
-<tr>
-<td width="50%">
+ 
 
 ### 👨‍💻 Senior Full-Stack Engineer
 - Production-grade SaaS applications
@@ -41,9 +40,7 @@ Building scalable SaaS platforms, AI-powered systems, mobile apps, and cloud-nat
 - High-performance APIs
 - Real-time systems
 
-</td>
-
-<td width="50%">
+ 
 
 ### 🤖 AI Engineer
 - LLM Applications
@@ -52,11 +49,7 @@ Building scalable SaaS platforms, AI-powered systems, mobile apps, and cloud-nat
 - Vector Search
 - KYC & Face Recognition
 
-</td>
-</tr>
-
-<tr>
-<td width="50%">
+ 
 
 ### ⚡ Core Stack
 
@@ -67,10 +60,7 @@ Next.js • TypeScript • Tailwind CSS
 **Backend**  
 Node.js • NestJS • Python • Rust
 
-</td>
-
-<td width="50%">
-
+ 
 ### ☁️ Cloud & DevOps
 
 AWS EC2 • AWS S3  
@@ -78,8 +68,7 @@ Docker • Nginx
 Redis • PostgreSQL  
 CI/CD & Scalable Deployments
 
-</td>
-</tr>
+ 
 </table>
 
 ---
